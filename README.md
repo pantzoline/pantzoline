@@ -1,6 +1,7 @@
 # 🦊 pantzoline
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJicXp6bmN4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/H1SXXLaWirIEuC68KR/giphy.gif" width="600px">
+  <img src="https://64.media.tumblr.com/7d5ba6e7a2b8e3a8a8a8a8a8a8a8a8a8/tumblr_inline_p7n8p2X1X11u9u9u9_540.gif" width="100%">
+</div>
   <h1>Bem-vindo ao meu domínio! 💍</h1>
 </div>
 
