@@ -1,5 +1,5 @@
 # 🦊 pantzoline
-  <<div align="center">
+  <div align="center">
   <img src="https://giffiles.alphacoders.com/223/223353.gif" alt="Yuta Okkotsu - JJK 0" width="100%" max-width="600px">
   
   <br>
