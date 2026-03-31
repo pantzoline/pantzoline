@@ -1,8 +1,9 @@
 # 🦊 pantzoline
 <p align="center">
-  <img src="https://giffiles.alphacoders.com/223/thumb-223353.jpg" width="500"/>
-</p>>
-
+  <a href="https://github.com/pantzoline">
+    <img src="https://giffiles.alphacoders.com/223/thumb-223353.jpg" width="600"/>
+  </a>
+</p>
   <h1>Bem-vindo ao meu domínio! 💍</h1>
 </div>
 
