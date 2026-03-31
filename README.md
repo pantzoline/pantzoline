@@ -1,8 +1,8 @@
 # 🦊 pantzoline
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="220"/>
-</p>
-
+<div align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJicXp6bmN4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4bmZ4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/H1SXXLaWirIEuC68KR/giphy.gif" width="600px">
+  <h1>Bem-vindo ao meu domínio! 💍</h1>
+</div>
 
 <h1 align="center">⚡ Vitor Alves ⚡</h1>
 
