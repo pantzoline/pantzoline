@@ -18,12 +18,18 @@
 
 ## 🧠 Sobre mim
 
-💡 Atuo na interseção entre desenvolvimento, suporte técnico e segurança digital  
-🔐 Experiência prática com certificação digital e normas ICP-Brasil  
-⚙️ Forte atuação em suporte N1/N2 com foco em resolução real  
-🐧 Laboratório próprio com Linux para testes e automações  
+💡 Desenvolvedor focado em automação, APIs e soluções inteligentes  
+🤖 Experiência com IA aplicada e automações de processos  
+🔐 Atuação com criptografia e certificação digital (ICP-Brasil)  
+⚙️ Suporte técnico N1/N2 com foco em resolução eficiente  
+🐧 Laboratório próprio com Linux e testes de rede  
 
----
+## 🤖 Automação & IA
+
+- 🧠 Integração com APIs (REST, pesquisa como SerpAPI)
+- ⚙️ Automação de processos e fluxos
+- 🤖 Uso de IA para otimização de tarefas
+- 🔎 Coleta e tratamento de dados
 
 ## 🧩 Tech Stack
 
