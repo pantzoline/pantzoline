@@ -2,8 +2,7 @@
 <div align="center">
   <img src="https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif" width="300px" alt="Yuta Okkotsu">
   <br>
-  <sub><i>"Vou dar o meu melhor."</i></sub>
-</div>
+
   <h1>Bem-vindo ao meu domínio! 💍</h1>
 </div>
 
