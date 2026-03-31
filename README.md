@@ -1,8 +1,7 @@
 # 🦊 pantzoline
-  <div align="center">
-  <img src="https://giffiles.alphacoders.com/223/223353.gif" alt="Yuta Okkotsu - JJK 0" width="100%" max-width="600px">
-  
-  <br>
+<p align="center">
+  <img src="https://giffiles.alphacoders.com/223/thumb-223353.jpg" width="500"/>
+</p>>
 </div>
   <h1>Bem-vindo ao meu domínio! 💍</h1>
 </div>
