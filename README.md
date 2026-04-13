@@ -1,6 +1,8 @@
 # 🦊 pantzoline
+
 <div align="center">
-  <img src="https://media3.giphy.com/media/aUovxH8Vf9qDu/giphy.gif" width="300px" alt="Yuta Okkotsu">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueGZ3bm9pZzR6NXp3ZzR6NXp3ZzR6NXp3ZzR6NXp3ZzR6NXp3JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/aUovxH8Vf9qDu/giphy.gif" width="400px" alt="Yuta Okkotsu">
+  
   <br>
 
   <h1>Bem-vindo ao meu domínio! 💍</h1>
@@ -20,15 +22,15 @@
 
 ## 🧠 Sobre mim
 
-💡 Desenvolvedor focado em automação, APIs e soluções inteligentes  
-🤖 Experiência com IA aplicada e automações de processos  
-🔐 Atuação com criptografia e certificação digital (ICP-Brasil)  
-⚙️ Suporte técnico N1/N2 com foco em resolução eficiente  
-🐧 Laboratório próprio com Linux e testes de rede  
+* 💡 **Desenvolvedor** focado em automação, APIs e soluções inteligentes  
+* 🤖 **Experiência** com IA aplicada e automações de processos  
+* 🔐 **Atuação** com criptografia e certificação digital (ICP-Brasil)  
+* ⚙️ **Suporte técnico** N1/N2 com foco em resolução eficiente  
+* 🐧 **Laboratório** próprio com Linux e testes de rede  
 
 ## 🤖 Automação & IA
 
-- 🧠 Integração com APIs (REST, pesquisa como SerpAPI)
+- 🧠 Integração com APIs (REST, SerpAPI)
 - ⚙️ Automação de processos e fluxos
 - 🤖 Uso de IA para otimização de tarefas
 - 🔎 Coleta e tratamento de dados
@@ -48,11 +50,7 @@
 + Sistema voltado para certificação digital
 + Aplicação baseada nas normas ICP-Brasil
 + Simulação de processos reais de validação
----
 
-## 🛡️ Cyber Lab
-
-```bash
 > booting system...
 
 [✔] Linux environment
@@ -60,17 +58,12 @@
 [✔] Security practices
 [✔] Support automation
 
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="220"/>
-</p>
-
-> status: STABLE
-
 while(alive) {
   support();
   code();
   secure();
   evolve();
 }
+
+
 
