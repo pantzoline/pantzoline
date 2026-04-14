@@ -28,42 +28,43 @@
 * ⚙️ **Suporte técnico** N1/N2 com foco em resolução eficiente  
 * 🐧 **Laboratório** próprio com Linux e testes de rede  
 
-## 🤖 Automação & IA
-
-- 🧠 Integração com APIs (REST, SerpAPI)
-- ⚙️ Automação de processos e fluxos
-- 🤖 Uso de IA para otimização de tarefas
-- 🔎 Coleta e tratamento de dados
-
 ## 🧩 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,python,java,mysql,linux,git" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,supabase,flutter,dart,mysql,linux,git,docker" />
 </p>
 
 ---
 
 ## 🚀 Projetos em Destaque
 
-### 🛡️ AC Angry
+### 🛰️ gs.vemapi
 ```diff
-+ Sistema voltado para certificação digital
-+ Aplicação baseada nas normas ICP-Brasil
-+ Simulação de processos reais de validação
++ Sistema de criação ultra-rápida de Landing Pages
++ Foco em pequenos negócios e alta conversão
++ Integração com APIs de marketing e pagamentos
+
+
+
++ Sistema voltado para certificação digital baseado na ICP-Brasil
++ Automação de suporte e validação de processos
++ Infraestrutura de segurança para Autoridades de Registro
+
 
 > booting system...
 
-[✔] Linux environment
-[✔] Network diagnostics
-[✔] Security practices
-[✔] Support automation
+[✔] Linux environment optimized
+[✔] Network diagnostics: STABLE
+[✔] Security practices: ENFORCED
+[✔] Support automation: ACTIVE
 
 while(alive) {
   support();
   code();
   secure();
   evolve();
-}
-
+}p align="center">
+<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dvmatheus-alves%26show_icons%3Dtrue%26theme%3Ddracula%26hide_border%3Dtrue" />
+</p>
 
 
