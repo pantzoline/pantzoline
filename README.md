@@ -5,63 +5,90 @@
   
   <br>
 
-  <h1>Full Stack Developer | IT Infrastructure | Security Specialist</h1>
+  <h1>⚡ Full Stack Developer | Security Specialist | Founder @ VEMAPI ⚡</h1>
   
-  <p>
-    <img src="https://img.shields.io/badge/Curitiba-PR-blue?style=flat-square&logo=googlemaps&logoColor=white" />
-    <img src="https://img.shields.io/badge/Status-Open_to_Projects-success?style=flat-square" />
+  <p align="center">
+    <a href="https://linkedin.com/in/seu-perfil"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="mailto:seu-email@exemplo.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <img src="https://img.shields.io/badge/Curitiba-PR-8A2BE2?style=for-the-badge&logo=googlemaps&logoColor=white" />
   </p>
 </div>
 
 ---
 
-### 🖋️ Professional Profile
-Especialista em desenvolvimento de soluções digitais e infraestrutura de TI, com sólida experiência em **Certificação Digital (ICP-Brasil)** e suporte de alta complexidade (N1/N2). Atualmente, foco meus esforços na construção do ecossistema **VEMAPI**, unindo performance técnica à estratégia de negócios para o mercado SMB.
+### 🖋️ Executive Summary
+Desenvolvedor focado em construir ecossistemas digitais eficientes. De um lado, a **VEMAPI**, transformando a presença digital de pequenos negócios; de outro, a expertise em **Segurança da Informação e Certificação Digital (ICP-Brasil)**, garantindo a integridade de sistemas críticos e suporte especializado N1/N2.
 
 ---
 
-### 🚀 Core Projects
+### 🚀 Projetos em Destaque | Featured Projects
 
-#### 🛰️ GS.VEMAPI
-*Landing Page Engine & Business Solutions*
-- **Objetivo:** Automatizar a presença digital de pequenos negócios através de páginas de alta performance.
-- **Stack:** `Next.js` | `TailwindCSS` | `Supabase` | `PostgreSQL`
-- **Diferencial:** Arquitetura focada em SEO e conversão imediata.
-
-#### 🔐 AC ANGRY
-*Security & Digital Certification Management*
-- **Objetivo:** Gestão e automação para processos de Autoridades de Registro (AR).
-- **Stack:** `Flutter` | `Dart` | `Security Protocols` | `Docker`
-- **Compliance:** Total aderência às normas da ICP-Brasil para validação e emissão de certificados.
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🛰️ GS.VEMAPI</h4>
+      <p><i>Landing Page Engine & Business Solutions</i></p>
+      <code>Next.js</code> <code>TailwindCSS</code> <code>Supabase</code>
+      <ul>
+        <li>Automação de sites de alta conversão.</li>
+        <li>Foco em performance e SEO.</li>
+      </ul>
+      <a href="https://github.com/vmatheus-alves/gs-vemapi">Ver Repositório →</a>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🔐 AC ANGRY</h4>
+      <p><i>Security & Certification Management</i></p>
+      <code>Flutter</code> <code>Dart</code> <code>PostgreSQL</code>
+      <ul>
+        <li>Gestão de Autoridades de Registro.</li>
+        <li>Compliance total com ICP-Brasil.</li>
+      </ul>
+      <a href="https://github.com/vmatheus-alves/ac-angry">Ver Repositório →</a>
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🧩 Technical Expertise
+### 🧩 Tech Stack & Ecosystem
 
-| Categoria | Tecnologias |
+| **Área** | **Tecnologias & Ferramentas** |
 | :--- | :--- |
-| **Frontend** | React, Next.js, Tailwind CSS, Flutter |
-| **Backend** | Node.js, Python, Supabase, PostgreSQL |
-| **Infra & Security** | Linux (Debian/Ubuntu), Criptografia, ICP-Brasil, Docker |
-| **Automations** | Integração de APIs, IA aplicada, Fluxos de Suporte N2 |
+| **Frontend** | `React`, `Next.js`, `Tailwind CSS`, `Flutter` |
+| **Backend** | `Node.js`, `Python`, `Supabase`, `PostgreSQL` |
+| **Infra & Security** | `Linux (Ubuntu/Debian)`, `Criptografia`, `ICP-Brasil`, `Docker` |
+| **Business** | `VEMAPI Digital Solutions`, `Landing Page Strategy`, `IT Support N2` |
 
 ---
 
-### ⚙️ System Status & Diagnostics
+### 📊 Performance Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vmatheus-alves&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vmatheus-alves&layout=compact&theme=tokyonight&hide_border=true" height="180px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vmatheus-alves&theme=tokyonight&hide_border=true" width="100%" />
+</p>
+
+---
+
+### ⚙️ Operational Status
 
 ```javascript
-const developer = {
-  name: "Vitor Alves",
-  roles: ["Developer", "IT Support Specialist", "Founder at VEMAPI"],
-  focus: ["Automation", "Web Performance", "Data Security"],
-  current_objective: "Building scalable digital ecosystems",
-  status: "Optimizing code and securing networks..."
-};
+/* * Environment: Production
+ * User: Vitor Alves (pantzoline)
+ */
 
-// Continuous improvement loop
-while (developer.is_alive) {
-  developer.learn();
-  developer.code();
-  developer.secure();
-  developer.deploy();
+while (status === "Evolving") {
+    optimize(gs.vemapi);
+    secure(ac.angry);
+    support(clients.n2);
+    
+    if (knowledge < infinity) {
+        learn_new_stack();
+    }
 }
+
+// Result: Systems nominal. Ready for deployment.
